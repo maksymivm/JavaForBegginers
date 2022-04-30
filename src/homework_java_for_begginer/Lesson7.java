@@ -43,7 +43,5 @@ public class Lesson7 {
         }
 
         System.out.println(catsNames.length); // dlina masiva
-
-
     }
 }
